@@ -8,7 +8,7 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<img height=70px src="https://www.jairogarciarincon.com/img/clases/1325.jpg"> 
+<img height=70px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fubiqum.com%2Fes%2Fresources%2Faprender-java-por-que-y-como-hacerlo%2F&psig=AOvVaw0y1rTyejPkcIGB06_gbIfA&ust=1706020106922000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDlyKWa8YMDFQAAAAAdAAAAABAD"> 
 </td>
 
 <td align="center" width="20%"> 
